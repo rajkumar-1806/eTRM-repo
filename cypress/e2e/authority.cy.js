@@ -7,6 +7,7 @@ import TRMmockdatatablevalidation from "../fixtures/trm.json"
 import TRMelements from "../support/pageObject/trm"
 const TRMmockdata = require("../fixtures/trm")()
 import Templatemockdata from "../fixtures/Templates.json"
+import Templatemockdata from "../fixtures/Templates.json"
 
 describe("authorityTrmTeamplatesuit", () => {
     before(() => {

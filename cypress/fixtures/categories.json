@@ -1,0 +1,20 @@
+{
+    "commonvalidationData": {
+        "searchbarElement": "Categories",
+        "breadcumElement": "Categories",
+        "addbreadcum": "Add Category",
+        "error": "Please fill all mandatory fields"
+    },
+    "inputData":{
+      "Name":"",
+      "Code":"",
+      "savemsg":"Category saved successfully."
+    },
+    "tooltipvalidation":
+{
+    "Edit":"Edit Category",
+    "View":"View Category",
+    "Delete":"Delete Category",
+    "deletesuccessmsg":"Category Deleted Successfully"
+   }
+}

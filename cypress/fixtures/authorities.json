@@ -1,0 +1,60 @@
+{
+    "commonvalidationData": {
+        "searchbarElement": "Authorities",
+        "breadcumElement": "Authorities",
+        "addbreadcum": "Add Authority",
+        "error": "Please fill all mandatory fields"
+    },
+    "tooltipvalidation":
+        {
+            "Edit":"Edit Authority",
+            "View":"View Authority",
+            "Delete":"Delete Authority",
+            "trmmappederror":"TRM Version(s) are mapped to this Authority and cannot be deleted.",
+            "deletesuccessmsg":"Authority deleted successfully"
+           },
+        
+    
+    "authorityDats": [
+        {
+            "Name": "",
+            "Contact Name": "",
+            "Code": "",
+            "Address": "98765456789876545678",
+            "Description": "jhgfdghjkjhbgv",
+            "URL": "kjhgfcghjkjh",
+           
+           "Contact Phone": "9876543456788765456",
+           "Contact Email": "sdffsdf",
+             "phoneerromsg":"Contact phone must be a number",
+             "emailerror":"Enter Valid Email"
+           
+            
+        },
+        {
+            "Name": "",
+            "Contact Name": "",
+            "Code": "",
+            "Address": "ANB",
+           "Description": "test",
+            "URL": "www.a.com",
+            "Contact Phone": "9876543210",
+            "Contact Email": "a@mail.com"
+            
+            
+        }
+    ],
+    "inputDataforthefields": [
+        {
+            "contactPhone": 98765432127564,
+            "Address": "ANBsystemspvthva.ltd",
+            "ContactEmail": "asfasf73294a"
+           
+        },
+        {
+            "contactPhone": 9876543210,
+            "Address": "ANBsystemspvt.ltd",
+            "ContactEmail": "asfasfa"
+        }
+    ]
+}

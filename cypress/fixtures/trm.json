@@ -1,0 +1,12 @@
+{
+"tooltipvalidation":
+{
+    "Edit":"Edit TRM Version",
+    "View":"View TRM Version",
+    "Delete":"Delete TRM Version",
+    "deletesuccessmsg":"TRM Version deleted successfully"
+   },
+  "datavalidation": {
+      
+   }
+}

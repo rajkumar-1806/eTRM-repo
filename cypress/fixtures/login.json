@@ -1,0 +1,24 @@
+[
+    
+        {
+            "error": "Please fill all mandatory fields"
+        },
+        {
+            "userName": "Testing_purpose12212",
+            "password": "Raj@2000",
+            "error":"Invalid User ID/Password"
+        },
+        {
+            "userName": "Testing_purpose",
+            "password": "Raj@200023423",
+            "error":"Invalid User ID/Password"
+        },
+        {
+            "userName": "Testing_purpose",
+            "password": "Raj@2000",
+            "valid" : true
+            
+        }
+    
+
+]

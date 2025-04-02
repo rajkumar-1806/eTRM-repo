@@ -1,0 +1,20 @@
+{
+    "commonvalidationData": {
+        "searchbarElement": "Sub Categories",
+        "breadcumElement": "Sub Categories",
+        "addbreadcum": "Add Sub Category",
+        "error": "Please fill all mandatory fields"
+    },
+    "inputData":{
+      "Name":"",
+      "Code":"",
+      "savemsg":"Subcategory saved successfully."
+    },
+    "tooltipvalidation":
+{
+    "Edit":"Edit Sub Category",
+    "View":"View Sub Category",
+    "Delete":"Delete Subcategory",
+    "deletesuccessmsg":"Subcategory was deleted successfully"
+   }
+}

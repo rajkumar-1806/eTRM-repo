@@ -1,0 +1,20 @@
+{
+    "commonvalidationData": {
+        "searchbarElement": "Program Types",
+        "breadcumElement": "Program Types",
+        "addbreadcum": "Add Program Type",
+        "error": "Please fill all mandatory fields"
+    },
+    "inputData":{
+      "Name":"",
+      "Code":"",
+      "savemsg":"Program type saved successfully."
+    },
+    "tooltipvalidation":
+{
+    "Edit":"Edit Program Type",
+    "View":"View Program Type",
+    "Delete":"Delete Program Type",
+    "deletesuccessmsg":"Program type deleted successfully"
+   }
+}

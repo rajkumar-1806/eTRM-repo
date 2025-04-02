@@ -1,0 +1,27 @@
+{
+    "commonvalidationData": {
+        "searchbarElement": "Templates",
+        "breadcumElement": "Templates",
+        "addbreadcum": "Add Template",
+        "error": "Please enter template name."
+    },
+   
+   "inputData":{
+   
+    "Name":"Please select authority",
+    "Authority":"Add atleast one section",
+    "Description":"",
+    "Section Name ":"Add atleast one attribute.",
+    "Attribute Name":"Please enter attribute display name.",
+    "Display Name":"Template saved successfully."
+
+
+   },
+   "tooltipvalidation":
+{
+    "Edit":"Edit Template",
+    "View":"View Template",
+    "Delete":"Delete Template",
+    "deletesuccessmsg":"Template deleted successfully"
+   }
+}
